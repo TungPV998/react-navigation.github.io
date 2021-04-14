@@ -64,7 +64,7 @@ export default function App() {
 }
 ```
 
-## Opening and closing drawer
+## Mở và đóng drawer
 
 To open and close drawer, use the following helpers:
 
